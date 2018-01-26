@@ -1,0 +1,33 @@
+{
+  "packages": [
+    {
+      "name": "ast",
+      "maintainer": "Atlantis Specialist Technologies",
+      "websiteURL": "https://github.com/Atlantis-Specialist-Technologies/Arduino-Boards-Packages/",
+      "email": "james@atlantigroup.co.za",
+      "help": {
+        "online": "https://github.com/Atlantis-Specialist-Technologies/Arduino-Boards-Packages/"
+      },
+      "platforms": [
+        {
+          "name": "AST AVR Boards",
+          "architecture": "avr",
+          "version": "0.0.1",
+          "category": "AST",
+          "help": {
+            "online": "https://github.com/Atlantis-Specialist-Technologies/ast-arduino-boards/"
+          },
+          "url": "https://github.com/Atlantis-Specialist-Technologies/Arduino-Boards-Packages/raw/master/Packages/ast-0.0.1.zip",
+          "archiveFileName": "ast-0.0.1.zip",
+          "checksum": "SHA-256:3359dd6c30f8afd87bf10e2ce69028edddca6d621a279c7cf56e0c0d87a19d7b",
+          "size": "60845",
+          "boards": [
+            {"name": "CAN485"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
